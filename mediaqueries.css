@@ -44,6 +44,17 @@
         margin: 0 auto 2rem;
     }
 
+    .about__pic-container {
+        width: 300px;
+        height: 300px;
+        margin: 0 auto 2rem;
+    }
+
+    .about-pic {
+        width: 300px;
+        height: 300px;
+    }
+
     .about-containers {
         margin-top:0 ;
     }
