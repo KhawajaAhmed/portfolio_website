@@ -160,7 +160,7 @@ section {
 
 .section__pic-container {
     display: flex; 
-    height: 500px;
+    height: 400px;
     width: 400px;
     margin: auto 0;
 }
