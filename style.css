@@ -313,6 +313,11 @@ section {
     margin: auto 0;
 }
 
+.about-text-container strong {
+        font-weight: bold; 
+        font-size: 1.2em; 
+    }
+
 /* Experience Section */
 
 #experience {
